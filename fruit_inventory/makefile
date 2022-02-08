@@ -1,7 +1,7 @@
 
 CC = g++
 CFLAGS = -Wall
-BIN = Fruit1 Fruit2 
+BIN = FruitInventory1 FruitInventory2 
 OBJ = $(BIN:%=%.o)
 
 all: $(BIN)
