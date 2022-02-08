@@ -1,7 +1,7 @@
 
 CC = g++
 CFLAGS = -Wall
-BIN = Friendnet1 Friendnet2 Friendnet3
+BIN = friendgraph1 friendgraph2 friendgraph3
 
 all: $(BIN)
 
